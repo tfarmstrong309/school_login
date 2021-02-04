@@ -6,8 +6,8 @@ driver = webdriver.Chrome(executable_path="chromedriver.exe")
 driver.get('https://parents.mtps.com/moorestown/parents')
 
 #Username and Password
-m_username = 'mdarraugh@gmail.com'
-m_password = '42897Lennep'
+m_username = 'OMMITED'
+m_password = 'OMMITED'
 #XPATH Variables
 XPATH_username = '//*[@id="j_username"]'
 XPATH_password = '//*[@id="j_password"]'
