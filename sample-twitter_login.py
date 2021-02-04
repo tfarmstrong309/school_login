@@ -7,9 +7,9 @@ XPATH_password = '//*[@id="react-root"]/div/div/div[2]/main/div/div/div[2]/form/
 XPATH_button = '//*[@id="react-root"]/div/div/div[2]/main/div/div/div[2]/form/div/div[3]/div/div/span/span'
 time.sleep(6)
 # Username input line
-driver.find_element_by_xpath(XPATH_username).send_keys('t_f_armstrong')
+driver.find_element_by_xpath(XPATH_username).send_keys('OMMITED')
 # Password
-driver.find_element_by_xpath(XPATH_password).send_keys('&3j}auM6+@;Z')
+driver.find_element_by_xpath(XPATH_password).send_keys('OMMITED')
 #Login button
 driver.find_element_by_xpath(XPATH_button).click()
 
